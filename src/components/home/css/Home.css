@@ -1,0 +1,119 @@
+
+.el_header_div_img{
+  float: left;
+  width: 70%;
+  height: 90%;
+  margin-left: 10%;
+}
+
+.div_el_container{
+
+}
+.el-menu-vertical-demo:not(.el-menu--collapse) {
+  width: 13%;
+  min-height: 90%;
+}
+
+.div_el_radio_group_button{
+/*  width: 10%;
+  margin-left: -4.299%;
+  float: left;*/
+
+}
+.div_img_guanli{
+  width: 10%;
+  height: 10%;
+
+}
+.div_biaoti{
+/*  width: 10%;
+  height: 5%;
+  margin-top: -1%;
+  float: left;*/
+}
+.div_el_dropdown_zhanghu_shezhi{
+  width: 10%;
+  float: right;
+}
+
+.div_header_router_view_right{
+  width: 95%;
+  height: 100%;
+
+}
+
+.div_div_el_header_radio{
+  float: left;
+  height: 8%;
+  width: 100%;
+  margin-top: -3.2%;
+
+
+}
+
+.div_elmain_view{
+  float: left;
+  width: 100%;
+  height: 130%;
+  border: solid 3px chartreuse;
+  margin-top: -4%;
+}
+
+.div_el_menu{
+  margin-top: 0%;
+}
+
+.el-header, .el-footer {
+  background-color: #545c64;
+  color: #fff;
+  line-height: 60px;
+}
+
+.el-aside {
+  background-color: #545c64;
+  color: #333;
+  text-align: left;
+  height: 900px;
+  margin-top: -2%!important;
+}
+
+.el-main {
+  background-color: #E9EEF3;
+  color: #333;
+
+
+}
+
+body > .el-container {
+  margin-bottom: 40px;
+}
+
+
+.el-header {
+  background-color: lightblue;
+  color: #333;
+  line-height: 60px;
+}
+
+.el-aside {
+  color: #333;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

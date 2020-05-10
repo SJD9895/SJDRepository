@@ -1,0 +1,77 @@
+
+  .add_house_room_el_dialog{
+    height: 100%;
+  }
+
+  .addhouse_room_div{
+    margin-top: -3%;
+    margin-left: -10%;
+    width: 100%;
+  }
+
+  .addhouse_el_room_form{
+    width: 100%;
+  }
+
+  .el_select_house_rhmode{
+    width: 100%;
+  }
+
+  .el_select_house_apartment{
+    width: 100%;
+  }
+  /* el_form_item_house_rhorientation */
+  .el_form_item_house_rhorientation{
+    width: 100%;
+  }
+  .el_radio_group_house_rhorientation{
+    width: 100%;
+  }
+
+  .el_radio_group_house_rhorientation_east{
+    width: 18%;
+
+  }
+
+  .el_date_picker_house_rhreleasetime{
+    width: 300%;
+  }
+  .el_form_item_house_rhreleasetime{
+    width: 100% !important;
+    height: 40px;
+  }
+
+  .input_class{
+    width: 100% !important;
+    height: 40px;
+  }
+
+  .el_select_house_rhprovinceid{
+    width: 100%;
+  }
+
+  .el_select_house_rhciid{
+    width: 100%;
+  }
+
+  .el_select_house_rharid{
+    width: 100%;
+  }
+
+  .div_span_close_dialog_add_house_room{
+    display: none;
+  }
+
+  .asd_mode{
+    display: block;
+  }
+
+  .el_button_add_house_room{
+    margin-top: 5%;
+    margin-left: 36%;
+  }
+
+  .el_form_el_form_item_el_button_resetFome_house{
+    display: none;
+  }
+
